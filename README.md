@@ -156,6 +156,13 @@ Si quieres aprender a aplicar SDD, los principios de ingeniería detrás de este
 
 <br/>
 
+[![Instagram](https://img.shields.io/badge/@valentin__ayesa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valentin_ayesa/)
+[![LinkedIn](https://img.shields.io/badge/valentinayesa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinayesa/)
+[![YouTube](https://img.shields.io/badge/VA360_Labs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxNmXU0TEFM7DqJahdLKNCQ)
+[![TikTok](https://img.shields.io/badge/@va360__valen-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@va360_valen)
+
+<br/>
+
 <table><tr><td bgcolor="#0d0d0d" align="center" style="padding: 24px 48px; border-radius: 8px;">
   <img src="https://va360labs.com/public/imagen/logo-va360.webp" width="180" alt="VA360 Labs" />
   <br/><br/>
